@@ -18,12 +18,14 @@
   "homepage": "https://mriviewer.opensource.epam.com/",
   "private": false,
   "dependencies": {
-    "@tensorflow/tfjs": "^1.7.4",
+    "@tensorflow/tfjs": "^3.20.0",
     "bootstrap": "^4.5.0",
     "daikon": "^1.2.42",
     "eslint": "^7.27.0",
+    "express": "^4.18.1",
     "filereader-stream": "^2.0.0",
     "jquery": "^3.5.1",
+    "nodemon": "^2.0.20",
     "popper.js": "^1.16.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
@@ -31,9 +33,9 @@
     "react-dom": "^16.13.1",
     "react-nouislider": "^2.0.1",
     "react-redux": "^6.0.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
     "redux": "^4.0.5",
-    "three": "^0.101.1",
+    "three": "^0.145.0",
     "zlib": "^1.0.5"
   },
   "scripts": {
@@ -58,7 +60,7 @@
   ],
   "devDependencies": {
     "@babel/core": "7.14.3",
-    "canvas": "^2.6.1",
+    "canvas": "^2.10.1",
     "eslint-plugin-react": "7.x.x",
     "husky": "^6.0.0",
     "lint-staged": "^11.0.0",
