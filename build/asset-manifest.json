@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68a98085.chunk.css",
+    "main.js": "/static/js/main.d0fbc2a1.chunk.js",
+    "main.js.map": "/static/js/main.d0fbc2a1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0c00b30a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0c00b30a.js.map",
+    "static/css/2.cbd6491d.chunk.css": "/static/css/2.cbd6491d.chunk.css",
+    "static/js/2.dc06c90f.chunk.js": "/static/js/2.dc06c90f.chunk.js",
+    "static/js/2.dc06c90f.chunk.js.map": "/static/js/2.dc06c90f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0490829aa6f19c0e00ee6b03fa30c51b.js": "/precache-manifest.0490829aa6f19c0e00ee6b03fa30c51b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cbd6491d.chunk.css.map": "/static/css/2.cbd6491d.chunk.css.map",
+    "static/css/main.68a98085.chunk.css.map": "/static/css/main.68a98085.chunk.css.map",
+    "static/js/2.dc06c90f.chunk.js.LICENSE.txt": "/static/js/2.dc06c90f.chunk.js.LICENSE.txt",
+    "static/media/backface.frag": "/static/media/backface.817ce535.frag",
+    "static/media/backface.vert": "/static/media/backface.f5b02c63.vert",
+    "static/media/blur.vert": "/static/media/blur.9b8a59cf.vert",
+    "static/media/blur.frag": "/static/media/blur.f7cb028e.frag",
+    "static/media/clipplane.vert": "/static/media/clipplane.94f9dfe4.vert",
+    "static/media/clipplane.frag": "/static/media/clipplane.be17d346.frag",
+    "static/media/createAO.frag": "/static/media/createAO.7722eaf1.frag",
+    "static/media/createAO.vert": "/static/media/createAO.9b8a59cf.vert",
+    "static/media/frontface.vert": "/static/media/frontface.759f67f4.vert",
+    "static/media/frontface.frag": "/static/media/frontface.c0b824ed.frag",
+    "static/media/interpolation.vert": "/static/media/interpolation.378fb468.vert",
+    "static/media/interpolation.frag": "/static/media/interpolation.5ad7beb3.frag",
+    "static/media/rendertotexture.frag": "/static/media/rendertotexture.4fece674.frag",
+    "static/media/rendertotexture.vert": "/static/media/rendertotexture.c8d4a9fe.vert",
+    "static/media/volumerender.frag": "/static/media/volumerender.3f800d73.frag",
+    "static/media/volumerender.vert": "/static/media/volumerender.924458f4.vert"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c00b30a.js",
+    "static/css/2.cbd6491d.chunk.css",
+    "static/js/2.dc06c90f.chunk.js",
+    "static/css/main.68a98085.chunk.css",
+    "static/js/main.d0fbc2a1.chunk.js"
+  ]
+}
