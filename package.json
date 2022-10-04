@@ -59,6 +59,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "react-scripts": "4.0.3",
     "@babel/core": "7.14.3",
     "canvas": "^2.6.1",
     "eslint-plugin-react": "7.x.x",
